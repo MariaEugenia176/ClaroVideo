@@ -4,5 +4,3 @@ require 'pry'
 require 'calabash-android/abase'
 require 'cpf_faker'
 require 'faker'
-
-DATA = YAML.load_file('.\fixtures\default_data.yml')
